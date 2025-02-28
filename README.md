@@ -4,6 +4,9 @@ Zomato Sales Analysis Dashboard - Power-BI
 # Overview
 To find insights on sales performance, user engagement, and city-level Performance.Analyzed sales by order quantity, ratings, and trends, examined user engagement by active users and age, and assessed city performance across regions.The dashboard offers dynamic and interactive features, allowing users to filter, slicer and Analysis Expressions (DAX) the data to valuable insights.
 
+Technologies Used
+Excel, SQL, Power Bi(Dashboard)
+
 # Key Features
 Overview Section: Provides a summary of Zomato's services, with data on total orders and connected users.
 
